@@ -1,0 +1,51 @@
+header {
+	height: 100px;
+	background-image: url("images/patima.png");
+	margin:1% 0;
+}
+
+.jumbotron p {
+	font-size: 12pt;
+}
+
+blockquote {
+	font-size: 12pt;
+}
+
+#submit {
+	margin:2%;
+	padding:2%
+}
+
+#cancel {
+	margin:2%;
+	padding:2%
+}
+
+
+#content{
+	font-family: Garamond;
+}
+
+h2{
+	font-family:Garamond;
+	font-weight: bold;
+	
+}
+
+
+thead{
+	font-size:16pt;
+	font-family: Garamond;
+	
+}
+
+tbody{
+	font-size:14pt;
+	
+}
+
+h2.show{
+	padding:20px 0px;
+}
+

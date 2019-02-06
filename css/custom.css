@@ -1,0 +1,48 @@
+html, body, .container{
+	height:100%;
+	color: black;
+	font-family: Garamond;
+}
+
+html, body.jumbotron{
+	font-family: Garamond;
+}
+
+header{
+	height: 12%;
+	background-image:url(../images/patima.png);
+	margin: 1% 0;	
+}
+
+h2{
+	font-family: Garamond;
+	font-weight: bold;
+}
+
+#content {
+	padding: 1%;
+	margin: 1%; 
+}
+
+#report{
+	
+	text-transform: capitalize;
+	padding : 3% 2% 1% 2%;
+	margin : 3% 2% 1% 2%;
+}
+
+
+#contact{
+	text-transform: capitalize;
+
+	padding : 3%;
+	margin : 3%;
+}
+
+#cancel, #submit{
+	margin : 3% 1%;
+	font-weight: bold;
+
+}
+
+
